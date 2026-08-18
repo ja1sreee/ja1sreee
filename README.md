@@ -62,6 +62,4 @@ I build backend systems, explore how software works at scale, and enjoy understa
 <a href="mailto:sree24122006@gmail.com@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail"> </a> 
 </p>
 
-<br/><br/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ja1sreen&label=Profile+Views&color=39FF14&style=for-the-badge" />
+
