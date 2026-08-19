@@ -21,8 +21,8 @@ I build backend systems, explore how software works at scale, and enjoy understa
 
 <table>
 <tr><td width="22%" align="center"><b>Languages</b></td><td align="center">Java · Python · C · JavaScript</td></tr>
-<tr><td align="center"><b>Frontend</b></td><td align="center">HTML · CSS · React · Next</td></tr>
-<tr><td align="center"><b>Backend</b></td><td align="center">SpringBoot · Node.js</td></tr>
+<tr><td align="center"><b>Frontend</b></td><td align="center">HTML · CSS · React · Next.js</td></tr>
+<tr><td align="center"><b>Backend</b></td><td align="center">Spring Boot · Node.js</td></tr>
 <tr><td align="center"><b>Database</b></td><td align="center">SQL · MongoDB · NoSQL</td></tr>
 </table>
 
