@@ -58,7 +58,7 @@ I build backend systems, explore how software works at scale, and enjoy understa
 <div align="center">
 
 <a href="https://linkedin.com/in/jaisree-n-32663435b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaisree-n-32663435b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/JaisreeN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JaisreeN" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Jaisree_N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JaisreeN" height="30" width="40" /></a>
 <a href="mailto:sree24122006@gmail.com@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail"> </a> 
 </p>
 
